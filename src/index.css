@@ -5,9 +5,43 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: wheat;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.z-depth-2 {
+  align: left;
+  float: left;
 }
+
+.p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font: size 8;
+}
+
+.h7 {
+  font-style: bold;
+  font-weight: bolder;
+  font-size: 8;
+}
+
+.btn-warning {
+
+  background-color: tomato;
+  float: right;
+  margin-top: 20px;
+}
+
+.toda-ruy {
+  background-color: white ;
+  margin-top: 10px;
+  margin-left: 5px;
+  
+
+
+}
+
+.z-depth-2 {
+  margin-top: 5px;
+}
+
