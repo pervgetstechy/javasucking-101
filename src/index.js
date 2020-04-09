@@ -1,2 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.css'
-import './index.scss'
+import './assets/sass/index.scss';
+import 'jquery';
+import 'popper.js';
+import 'bootstrap';
